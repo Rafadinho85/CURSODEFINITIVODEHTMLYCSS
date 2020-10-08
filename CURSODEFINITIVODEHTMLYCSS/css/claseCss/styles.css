@@ -1,0 +1,14 @@
+/*llamar por elemento*/
+p{
+    color: yellow;
+}
+
+/*llamar por clase*/
+.parrafo{
+    color: red;
+}
+
+/*id*/
+#texto{
+    color: green;
+}
