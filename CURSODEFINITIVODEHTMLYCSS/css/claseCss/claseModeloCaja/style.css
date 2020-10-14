@@ -1,4 +1,8 @@
+
+/*como recomendación este codigo siempre debe de existir
+en tus archivos css para resetear los valores y evitar que los elementos generen scroll*/
 *{
+    box-sizing: border-box;/*Sirve para restar el tamaño del paddin y border y evitar que haga scroll*/
     padding:0;
     margin: 0;
 }
